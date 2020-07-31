@@ -18,6 +18,6 @@
     <fragment
         android:id="@+id/rulesFragment"
         android:name="com.example.android.navigation.RulesFragment"
-        android:label="fragment_rules"
+        android:label="CONTACT"
         tools:layout="@layout/fragment_rules" />
 </navigation>

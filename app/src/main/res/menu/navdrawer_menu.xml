@@ -3,10 +3,10 @@
 
     <item
         android:id="@+id/rulesFragment"
-        android:icon="@drawable/rules"
+        android:icon="@android:drawable/stat_notify_chat"
         android:title="@string/rules" />
     <item
         android:id="@+id/aboutFragment"
-        android:icon="@drawable/about_android_trivia"
+        android:icon="@android:drawable/ic_menu_search"
         android:title="@string/about" />
 </menu>
