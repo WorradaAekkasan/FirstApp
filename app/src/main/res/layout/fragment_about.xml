@@ -34,9 +34,10 @@
             android:layout_marginTop="@dimen/vertical_margin"
             android:layout_marginEnd="@dimen/horizontal_margin"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/about_android_trivia" />
+            app:srcCompat="@drawable/mo" />
 
         <TextView
             android:id="@+id/rulesText"
